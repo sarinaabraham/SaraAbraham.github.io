@@ -3,7 +3,7 @@ logo: "/images/image.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computer Science student looking for an internship. Eager to learn more through an internship.
   <br><br>
-  <a href="https://www.linkedin.com/in/rishabh-agarwal-a5b78121b">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/sara-abraham-5b1797278/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
