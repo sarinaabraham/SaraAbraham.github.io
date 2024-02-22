@@ -1,5 +1,5 @@
 title: Sara Abraham # your name (or website title) here
-logo: "" # your photo (or logo) here
+logo: "/images/image.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computer Science student looking for an internship. Eager to learn more through an internship.
   <br><br>
